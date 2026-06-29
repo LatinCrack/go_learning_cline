@@ -6,10 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Método-Feynman-FF6B6B?style=for-the-badge" alt="Método Feynman" />
-<img src="https://img.shields.io/badge/Lecciones-20-4ECDC4?style=for-the-badge" alt="20 Lecciones" />
-<img src="https://img.shields.io/badge/Nivel-Cero_a_Experto-FFE66D?style=for-the-badge" alt="De Cero a Experto" />
+![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Método Feynman](https://img.shields.io/badge/M%C3%A9todo-Feynman-FF6B6B?style=for-the-badge) ![20 Lecciones](https://img.shields.io/badge/Lecciones-20-4ECDC4?style=for-the-badge) ![De Cero a Experto](https://img.shields.io/badge/Nivel-Cero_a_Experto-FFE66D?style=for-the-badge)
 
 <br>
 
