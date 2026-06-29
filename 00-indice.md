@@ -107,7 +107,7 @@ go run main.go temp 100
 
 ---
 
-#### 📘 [Lección 03 — Control de Flujo: if, switch, for y la Elegancia del Minimalismo](./03-control-flujo/)
+#### 📘 [Lección 03 — Tipos de Datos en Go](./03-tipos-de-datos/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -140,7 +140,7 @@ go run main.go /var/log/app.log
 
 ---
 
-#### 📘 [Lección 04 — Funciones: El ADN de Go](./04-funciones/)
+#### 📘 [Lección 04 — Funciones: El ADN de Go](./04-funciones/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -167,7 +167,7 @@ Construirás una calculadora que parsea expresiones matemáticas desde texto (`"
 
 ---
 
-#### 📘 [Lección 05 — Estructuras, Métodos y la Filosofía "Composición sobre Herencia"](./05-structs/)
+#### 📘 [Lección 05 — Estructuras, Métodos y la Filosofía "Composición sobre Herencia"](./05-structs/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -199,7 +199,7 @@ Construirás un gestor de contactos CLI que almacena datos en un archivo JSON. U
 
 ---
 
-#### 📘 [Lección 06 — Arrays, Slices y el Secreto del Runtime de Go](./06-slices/)
+#### 📘 [Lección 06 — Arrays, Slices y el Secreto del Runtime de Go](./06-slices/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -253,7 +253,7 @@ Construirás una herramienta que toma un texto (un libro, un artículo, o la sal
 
 ---
 
-#### 📘 [Lección 08 — Strings, Runes y el Universo Unicode de Go](./08-strings/)
+#### 📘 [Lección 08 — Strings, Runes y el Universo Unicode de Go](./08-strings/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -452,7 +452,7 @@ Construirás tu propia librería de utilidades (`myutils`) organizada en subpaqu
 
 ---
 
-#### 📘 [Lección 15 — Testing en Go: El Estándar de Oro](./15-testing/)
+#### 📘 [Lección 15 — Testing en Go: El Estándar de Oro](./15-testing/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -565,7 +565,7 @@ Construirás un proxy HTTP que: (1) propaga context con timeout a los servicios 
 
 ---
 
-#### 📘 [Lección 19 — Generics, Reflect y Metaprogramación en Go](./19-generics-reflect/)
+#### 📘 [Lección 19 — Generics, Reflect y Metaprogramación en Go](./19-generics-reflect/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -592,7 +592,7 @@ Construirás una librería genérica que implemente `Map`, `Filter`, `Reduce`, `
 
 ---
 
-#### 📘 [Lección 20 — Proyecto Final: Construye una Base de Datos KV con Persistencia](./20-proyecto-final/)
+#### 📘 [Lección 20 — Proyecto Final: Construye una Base de Datos KV con Persistencia](./20-proyecto-final/) ✅
 
 <details>
 <summary><strong>🔍 Expandir detalles de la lección</strong></summary>
@@ -693,11 +693,9 @@ go-curso/
 │   └── go.mod
 ├── ...
 └── 20-proyecto-final/
-    ├── server/
-    ├── client/
-    ├── engine/
-    ├── go.mod
-    └── README.md
+    ├── 20-proyecto-final.md
+    ├── main.go
+    └── go.mod
 ```
 
 ---
