@@ -1,0 +1,17 @@
+# Binarios compilados de Go (Ejecutables)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+port-scanner
+http-bruteforcer
+
+# Carpetas de testing y coberturas
+*.out
+*.test
+*.prof
+
+# Datos temporales del IDE
+.continue/
+.cline/

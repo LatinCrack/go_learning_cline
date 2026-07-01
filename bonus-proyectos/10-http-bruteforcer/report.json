@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "total_attempts": 2,
+    "successes": 1,
+    "failures": 0,
+    "errors": 1,
+    "blocked": 0,
+    "duration": "332ms",
+    "rate_per_second": 6.010361261779181
+  },
+  "config": {
+    "target_url": "http://127.0.0.1:31881",
+    "target_type": "basic",
+    "workers": 1,
+    "delay_ms": 10,
+    "burst_size": 5,
+    "proxy_count": 0
+  },
+  "findings": [
+    {
+      "username": "testuser",
+      "password": "testpass",
+      "http_status_code": 200,
+      "timestamp": "2026-06-30T20:58:50-05:00"
+    }
+  ]
+}

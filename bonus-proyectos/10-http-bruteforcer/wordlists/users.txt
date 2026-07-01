@@ -1,0 +1,32 @@
+# Common usernames for security auditing
+# Format: one username per line, comments start with #
+admin
+root
+administrator
+user
+test
+guest
+operator
+manager
+support
+sysadmin
+deploy
+dev
+www
+ftp
+mysql
+postgres
+oracle
+jenkins
+gitlab
+nagios
+zabbix
+backup
+monitor
+api
+service
+default
+super
+sa
+webmaster
+info
